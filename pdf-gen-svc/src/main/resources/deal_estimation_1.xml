@@ -1,0 +1,78 @@
+<root-ele>
+    <name>Test deal conversion 2</name>
+    <number>Test-24-08-2</number>
+    <startDate>2023-08-24</startDate>
+    <endDate>2023-08-25</endDate>
+    <accountDto>
+        <id>11c08a98-3260-4098-b17d-5ac371bd0c93</id>
+        <accountNumber />
+        <externalId />
+        <name>Avalara test</name>
+        <description />
+        <addressList>
+            <addressType>BILL_TO</addressType>
+            <line1>629 N. High St. Suite 300</line1>
+            <line2 />
+            <line3 />
+            <city>Columbus</city>
+            <state>Ohio</state>
+            <zipCode>43215</zipCode>
+            <countryCode />
+            <addressTimeZone />
+        </addressList>
+    </accountDto>
+    <dealServiceExportDTOList>
+        <templateId>bc6aef79-87eb-4ad2-bccb-240d8c33a974</templateId>
+        <serviceName>AV-AC00 Copy</serviceName>
+        <rateCards>
+            <dimensionPriceList>
+                <dimensionId>cea1cb01-7c7c-44a9-b4fa-daeca26701e6</dimensionId>
+                <dimensionName>pd_charge</dimensionName>
+                <priceUnitLabel />
+                <dimensionPrice>
+                    <method>QUANTITY</method>
+                    <unitPrice>0.36</unitPrice>
+                </dimensionPrice>
+            </dimensionPriceList>
+            <dimensionPriceList>
+                <dimensionId>59b6a1b0-b0d2-46a1-b8a9-43abf2776093</dimensionId>
+                <dimensionName>pd_payout</dimensionName>
+                <priceUnitLabel />
+                <dimensionPrice>
+                    <method>QUANTITY</method>
+                    <unitPrice>0.18</unitPrice>
+                </dimensionPrice>
+            </dimensionPriceList>
+        </rateCards>
+    </dealServiceExportDTOList>
+    <dealServiceExportDTOList>
+        <templateId>37281e0e-75ff-4898-af8e-e4bbbc609183</templateId>
+        <serviceName>CLSD-ACPT</serviceName>
+        <rateCards>
+            <dimensionPriceList>
+                <dimensionId>d07f73e5-a8dc-48ea-ab2e-2b305a3b18f0</dimensionId>
+                <dimensionName>pd_none</dimensionName>
+                <priceUnitLabel></priceUnitLabel>
+                <dimensionPrice>
+                    <method>NO_PRICE</method>
+                </dimensionPrice>
+            </dimensionPriceList>
+            <dimensionPriceList>
+                <dimensionId>36901ef8-a4b0-4928-b165-494ad4a926e0</dimensionId>
+                <dimensionName>pd_receiver</dimensionName>
+                <priceUnitLabel>LOCKBOX-1</priceUnitLabel>
+                <dimensionPrice>
+                    <method>NO_PRICE</method>
+                </dimensionPrice>
+            </dimensionPriceList>
+            <dimensionPriceList>
+                <dimensionId>892044fb-c4ee-4b0c-a36d-0aafcef7d441</dimensionId>
+                <dimensionName>pd_sender</dimensionName>
+                <priceUnitLabel>BILLPAY-1</priceUnitLabel>
+                <dimensionPrice>
+                    <method>NO_PRICE</method>
+                </dimensionPrice>
+            </dimensionPriceList>
+        </rateCards>
+    </dealServiceExportDTOList>
+</root-ele>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<invoice>
+    <invoiceNo>2022-1330</invoiceNo>
+    <accountId>ed2d849c-6187-4fb1-834e-44387e2fcc9c</accountId>
+    <date>2023-03-03</date>
+    <dueDate>2023-03-03</dueDate>
+    <amount>1.72</amount>
+    <discount>0</discount>
+    <netCharge>0</netCharge>
+    <tax>0</tax>
+    <grossAmount>1.72</grossAmount>
+    <fromDate>2022-06-01</fromDate>
+    <toDate>2022-06-15</toDate>
+    <balance>1.72</balance>
+    <paymentLink>http://www.dontpay.com</paymentLink>
+    <account>
+        <accountNo>100</accountNo>
+        <name>Bank 100</name>
+        <status>ACTIVE</status>
+        <currency>USD</currency>
+        <lastBillDate>2022-08-31</lastBillDate>
+        <nextBillDate>2022-09-01</nextBillDate>
+        <lastInvoiceDate>2022-08-31</lastInvoiceDate>
+        <nextInvoiceDate>2022-09-01</nextInvoiceDate>
+        <addresses>
+            <type>BILLING</type>
+            <address1>270 Park Avenue</address1>
+            <city>New York</city>
+            <state>New York</state>
+            <country>US</country>
+            <zip>10017</zip>
+        </addresses>
+    </account>
+    <billItems>
+
+        <billId>a9b27116-d607-4633-ae80-33a76c6cdf40</billId>
+        <description>Account Transaction Activity: Response Received: Exception</description>
+        <quantity>19</quantity>
+        <unitPrice>-0.04</unitPrice>
+        <amount>-0.764</amount>
+        <discount>0</discount>
+        <netCharge>0</netCharge>
+        <tax>0</tax>
+        <grossAmount>0.76</grossAmount>
+        <appName>CFM-AT-IR-AT03</appName>
+        <appCode>CONFIRM</appCode>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <unspc>CFM-AT-IR-AT03</unspc>
+        <adjustment>false</adjustment>
+        <billStartDate>2022-06-01</billStartDate>
+        <billEndDate>2022-06-15</billEndDate>
+    </billItems>
+    <billItems>
+        <billId>3c5fca08-f2f6-428c-9a85-5528cf8dd20e</billId>
+        <description>Account Transaction Activity: Response Received: No Response</description>
+        <quantity></quantity>
+        <unitPrice>0</unitPrice>
+        <amount>0</amount>
+        <discount>0</discount>
+        <netCharge>0</netCharge>
+        <tax>0</tax>
+        <grossAmount>0</grossAmount>
+        <appName>CFM-AT-IR-AT01</appName>
+        <appCode>CONFIRM</appCode>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <unspc>CFM-AT-IR-AT01</unspc>
+        <adjustment>false</adjustment>
+        <billStartDate>2022-06-10</billStartDate>
+        <billEndDate>2022-06-15</billEndDate>
+    </billItems>
+
+    <payoutInvoice>false</payoutInvoice>
+    <tenantLogo>classpath:images/d794a547-ae18-52cd-a04c-cbc3045e5896/main-logo.png</tenantLogo>
+    <summaryLine1>For any queries regarding the invoice statement, please contact Liink support at:</summaryLine1>
+    <summaryLine2>https://iinconnect.static/contactus or billing@iinconnect.com</summaryLine2>
+    <fromDateStr>06-01-2022</fromDateStr>
+    <toDateStr>06-15-2022</toDateStr>
+    <dateStr>03-03-2023</dateStr>
+    <fullName>Secondary Doe</fullName>
+    <email>secondary.joe@bank100.com</email>
+    <adjustmentAmount>0</adjustmentAmount>
+    <totalDueAmount>1998776987654.000000</totalDueAmount>
+    <subTotalAmount>1.723</subTotalAmount>
+</invoice>

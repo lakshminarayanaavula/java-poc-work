@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<invoice>
+    <date>2023-02-03</date>
+    <fromDateStr>01-01-2023</fromDateStr>
+    <dueDate>2023-02-03</dueDate>
+    <discount>0.0</discount>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>ba170f09-5af4-488b-93c5-89b776c70da7</billId>
+        <priceUnitLabel>15XXXXXXXX/INR/Subscription/₹/164940</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>0de0fb88-9b32-47ed-971e-e4ee7c57b823</billId>
+        <priceUnitLabel>16XXXXXXXX/EUR/Subscription/€/1854.6600000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>a12182c2-2c17-4af2-9084-ffce00dc4054</billId>
+        <priceUnitLabel>17XXXXXXXX/EUR/Subscription/€/1854.6600000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>349c662a-87a0-4490-aff6-36c79e56e1c5</billId>
+        <priceUnitLabel>18XXXXXXXX/SGD/Subscription/S$/2694</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>448703b6-588c-4f54-885f-1885be8f5665</billId>
+        <priceUnitLabel>19XXXXXXXX/SGD/Subscription/S$/2694</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2000.0</unitPrice>
+        <amount>2000.0</amount>
+        <priceMethodType>FLAT_CHARGE</priceMethodType>
+        <appName>Account Maintenance</appName>
+        <description>ACCOUNT MAINTENANCE</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>2000.0</grossAmount>
+        <appCode>1111</appCode>
+        <billId>5a84900b-cdfd-4966-b700-dc6aff56dd9f</billId>
+        <priceUnitLabel>20XXXXXXXX/SGD/Subscription/S$/2694</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2.0</unitPrice>
+        <amount>50.0</amount>
+        <quantity>null</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Debit</appName>
+        <description>Book Transfer Debit</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>50.0</grossAmount>
+        <appCode>1234</appCode>
+        <billId>e019903a-16be-40e2-b62f-db0221f0e281</billId>
+        <priceUnitLabel>15XXXXXXXX/USD/Transaction/$/50</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2.0</unitPrice>
+        <amount>50.0</amount>
+        <quantity>25.0</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Debit</appName>
+        <description>Book Transfer Debit</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>50.0</grossAmount>
+        <appCode>1234</appCode>
+        <billId>d9dfe905-c28f-4c8d-bfbc-cc6dc255ce62</billId>
+        <priceUnitLabel>16XXXXXXXX/EUR/Transaction/€/46.3665000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2.0</unitPrice>
+        <amount>50.0</amount>
+        <quantity>25.0</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Debit</appName>
+        <description>Book Transfer Debit</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>50.0</grossAmount>
+        <appCode>1234</appCode>
+        <billId>efc5ccb2-907b-4e7b-bd0b-fd504dbbc521</billId>
+        <priceUnitLabel>17XXXXXXXX/USD/Transaction/$/50</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>2.0</unitPrice>
+        <amount>50.0</amount>
+        <quantity>25.0</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Debit</appName>
+        <description>Book Transfer Debit</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>50.0</grossAmount>
+        <appCode>1234</appCode>
+        <billId>0175cf0c-6488-417c-b85e-78c73e4f86c5</billId>
+        <priceUnitLabel>18XXXXXXXX/SGD/Transaction/S$/67.3500000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>1.0</unitPrice>
+        <amount>-25.0</amount>
+        <quantity>25.0</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Credit</appName>
+        <description>Confirm Transactions</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>25.0</grossAmount>
+        <appCode>1235</appCode>
+        <billId>313cee73-9b2b-4e4b-9137-600b2874873a</billId>
+        <priceUnitLabel>19XXXXXXXX/SGD/Transaction/S$/33.6750000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <billItems>
+        <unitPrice>1.0</unitPrice>
+        <amount>25.0</amount>
+        <quantity>25.0</quantity>
+        <priceMethodType>QUANTITY</priceMethodType>
+        <appName>Book Transfer Credit</appName>
+        <description>Confirm Transactions</description>
+        <discount>0.0</discount>
+        <unspc>null</unspc>
+        <tax>0.0</tax>
+        <grossAmount>25.0</grossAmount>
+        <appCode>1235</appCode>
+        <billId>02657e1b-e83c-4a5f-b45b-45cd9ebb5445</billId>
+        <priceUnitLabel>20XXXXXXXX/SGD/Transaction/S$/33.6750000000</priceUnitLabel>
+        <adjustment>false</adjustment>
+        <netCharge>0.0</netCharge>
+    </billItems>
+    <toDateStr>01-31-2023</toDateStr>
+    <balance>12250.0</balance>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>1854.66</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>€</currencySymbol>
+            <currency>EUR</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>16XXXXXXXX</accountNumber>
+            <feeRate>2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>46.3665</totalChargeInBaseCurrency>
+            <totalChargeInUSD>50.0</totalChargeInUSD>
+            <serviceCode>1234</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>€</currencySymbol>
+            <currency>EUR</currency>
+            <serviceDescription>Book Transfer Debit</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>16XXXXXXXX</accountNumber>
+            <feeRate>2.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>€</currencySymbol>
+        <subTotalOfBaseAmount>1901.0265000000002</subTotalOfBaseAmount>
+        <currency>EUR</currency>
+        <subTotalOfUsdAmount>2050.0</subTotalOfUsdAmount>
+        <accountNumber>16XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>164940.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>₹</currencySymbol>
+            <currency>INR</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>15XXXXXXXX</accountNumber>
+            <feeRate>2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>50.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>50.0</totalChargeInUSD>
+            <serviceCode>1234</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>$</currencySymbol>
+            <currency>USD</currency>
+            <serviceDescription>Book Transfer Debit</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>15XXXXXXXX</accountNumber>
+            <feeRate>2.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>₹</currencySymbol>
+        <subTotalOfBaseAmount>164990.0</subTotalOfBaseAmount>
+        <currency>INR</currency>
+        <subTotalOfUsdAmount>2050.0</subTotalOfUsdAmount>
+        <accountNumber>15XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>2694.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>18XXXXXXXX</accountNumber>
+            <feeRate>2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>67.35</totalChargeInBaseCurrency>
+            <totalChargeInUSD>50.0</totalChargeInUSD>
+            <serviceCode>1234</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>Book Transfer Debit</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>18XXXXXXXX</accountNumber>
+            <feeRate>2.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>S$</currencySymbol>
+        <subTotalOfBaseAmount>2761.35</subTotalOfBaseAmount>
+        <currency>SGD</currency>
+        <subTotalOfUsdAmount>2050.0</subTotalOfUsdAmount>
+        <accountNumber>18XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>2694.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>20XXXXXXXX</accountNumber>
+            <feeRate>2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>33.675</totalChargeInBaseCurrency>
+            <totalChargeInUSD>25.0</totalChargeInUSD>
+            <serviceCode>1235</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>Confirm Transactions</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>20XXXXXXXX</accountNumber>
+            <feeRate>1.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>S$</currencySymbol>
+        <subTotalOfBaseAmount>2727.675</subTotalOfBaseAmount>
+        <currency>SGD</currency>
+        <subTotalOfUsdAmount>2025.0</subTotalOfUsdAmount>
+        <accountNumber>20XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>2694.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>19XXXXXXXX</accountNumber>
+            <feeRate>2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>33.675</totalChargeInBaseCurrency>
+            <totalChargeInUSD>25.0</totalChargeInUSD>
+            <serviceCode>1235</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>S$</currencySymbol>
+            <currency>SGD</currency>
+            <serviceDescription>Confirm Transactions</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>19XXXXXXXX</accountNumber>
+            <feeRate>1.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>S$</currencySymbol>
+        <subTotalOfBaseAmount>2727.675</subTotalOfBaseAmount>
+        <currency>SGD</currency>
+        <subTotalOfUsdAmount>2025.0</subTotalOfUsdAmount>
+        <accountNumber>19XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <accountWithInvoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>1854.66</totalChargeInBaseCurrency>
+            <totalChargeInUSD>2000.0</totalChargeInUSD>
+            <serviceCode>1111</serviceCode>
+            <txnVolume>null</txnVolume>
+            <currencySymbol>€</currencySymbol>
+            <currency>EUR</currency>
+            <serviceDescription>ACCOUNT MAINTENANCE</serviceDescription>
+            <feeType>Subscription</feeType>
+            <accountNumber>17XXXXXXXX</accountNumber>
+            <feeRate>-2000.0</feeRate>
+        </invoiceItems>
+        <invoiceItems>
+            <totalChargeInBaseCurrency>50.0</totalChargeInBaseCurrency>
+            <totalChargeInUSD>50.0</totalChargeInUSD>
+            <serviceCode>1234</serviceCode>
+            <txnVolume>25.0</txnVolume>
+            <currencySymbol>$</currencySymbol>
+            <currency>USD</currency>
+            <serviceDescription>Book Transfer Debit</serviceDescription>
+            <feeType>Transaction</feeType>
+            <accountNumber>17XXXXXXXX</accountNumber>
+            <feeRate>2.0</feeRate>
+        </invoiceItems>
+        <currencySymbol>€</currencySymbol>
+        <subTotalOfBaseAmount>1904.66</subTotalOfBaseAmount>
+        <currency>EUR</currency>
+        <subTotalOfUsdAmount>2050.0</subTotalOfUsdAmount>
+        <accountNumber>17XXXXXXXX</accountNumber>
+    </accountWithInvoiceItems>
+    <summaryLine2/>
+    <payoutInvoice>false</payoutInvoice>
+    <summaryLine1/>
+    <invoiceNo>2023-260</invoiceNo>
+    <email>john.watson@hffcbank.com</email>
+    <subTotalAmount>12250.0</subTotalAmount>
+    <amount>12250.0</amount>
+    <dateStr>02-03-2023</dateStr>
+    <toDate>2023-01-31</toDate>
+    <fullName>john watson</fullName>
+    <tax>0.0</tax>
+    <grossAmount>12250.0</grossAmount>
+    <currencyCount>
+        <accountNo>IN-316</accountNo>
+        <count>3</count>
+        <currency>SGD</currency>
+    </currencyCount>
+    <currencyCount>
+        <count>2</count>
+        <currency>EUR</currency>
+    </currencyCount>
+    <currencyCount>
+        <count>1</count>
+        <currency>INR</currency>
+    </currencyCount>
+    <fromDate>2023-01-01</fromDate>
+    <accountId>fc2850b4-45e4-44ca-b7de-d4196d77d02a</accountId>
+    <tenantLogo>classpath:images/74a0792d-88f7-a76b-d58c-a4442320f46f/main-logo.png</tenantLogo>
+    <totalDueAmount>12250.0</totalDueAmount>
+    <invoiceId>5f1f78ee-8f65-4ff2-81c7-1d57913eb83a</invoiceId>
+    <netCharge>0.0</netCharge>
+    <adjustmentAmount>0.0</adjustmentAmount>
+    <account>
+        <name>IN-316</name>
+        <currency>USD</currency>
+        <addresses>
+            <zip>100017</zip>
+            <country>US</country>
+            <state>New York</state>
+            <type>BILLING</type>
+            <city>New York</city>
+            <address1>270 Park Avenue</address1>
+        </addresses>
+        <parentId>1bf52732-ff29-442c-8db6-7969bee670f9</parentId>
+        <accountNo>IN-316</accountNo>
+        <status>ACTIVE</status>
+    </account>
+</invoice>

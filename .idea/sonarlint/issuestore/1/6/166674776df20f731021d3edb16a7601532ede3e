@@ -1,0 +1,9 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆéÙçûÿÿÿÿ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Þàš¬øÿÿÿÿ8±á·Úý0
+Q
+java:S1128"/Remove this unused import 'java.util.Currency'.(·®õãÿÿÿÿÿ8ÄŸ¹Úý0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÄŸ¹Úý0

@@ -1,0 +1,24 @@
+
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Enter name" 3 times.(¾±”û
+h
+java:S1192"MDefine a constant instead of duplicating this literal "Enter mobile" 3 times.(Ç§ìûÿÿÿÿ
+=
+java:S2189	""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Â¹ËØ
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾±”û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç§ìûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›É¢şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±†¶©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î©’–ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç§ìûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¾±”û
+S	java:S106""9Replace this use of System.out or System.err by a logger.(›É¢şÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Øà›Ö
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(æ¾ıà
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ç§ìûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(î© •
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¾±”û
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ç•¤ş

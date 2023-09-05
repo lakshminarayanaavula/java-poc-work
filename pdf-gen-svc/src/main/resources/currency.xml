@@ -1,0 +1,22 @@
+<currencies>
+        <currency>
+                <code>USD</code>
+                <name>US Dollar</name>
+                <symbol>$</symbol>
+    </currency>
+    <currency>
+                <code>EUR</code>
+                <name>Euro</name>
+                <symbol>€</symbol>
+    </currency>
+    <currency>
+                <code>GBP</code>
+                <name>Pound Sterling</name>
+                <symbol>£</symbol>
+    </currency>
+    <currency>
+                <code>INR</code>
+                <name>Indian Rupee</name>
+                <symbol>₹</symbol>
+    </currency>
+</currencies>

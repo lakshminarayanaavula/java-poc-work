@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+      <modules>
+        <module>pdf-gen-svc</module>
+          <module>ipl-stats</module>
+          <module>csv-reader</module>
+          <module>iplstat-poc</module>
+          <module>core-java</module>
+          <module>email-service-app</module>
+      </modules>
+    <groupId>io.lwl</groupId>
+    <artifactId>poc-ws</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>POC All</name>
+    <packaging>pom</packaging>
+    <description>All the micro-service related to Monetize360. For LOCAL only.</description>
+    <dependencies>
+        <!-- add junit5 library -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.9.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+</project>

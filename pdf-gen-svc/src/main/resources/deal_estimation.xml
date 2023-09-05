@@ -1,0 +1,81 @@
+<deal-est>
+    <name>GW_REST_DL1</name>
+    <number>GW_REST_DL1</number>
+    <startDate>2023-08-18</startDate>
+    <endDate>2023-08-31</endDate>
+    <accountDto>
+        <id>1308049a-abec-4089-afa4-25a3f79d087f</id>
+        <accountNumber />
+        <externalId />
+        <name>Test customer</name>
+        <description />
+        <contactName>John Doe-Test</contactName>
+        <contactEmail>Johndoe@monetize360.io</contactEmail>
+        <contactPhone />
+        <addressList>
+            <addressType>BILL_TO</addressType>
+            <line1>123</line1>
+            <line2 />
+            <line3 />
+            <city>San jose</city>
+            <state>California</state>
+            <zipCode>95132</zipCode>
+            <countryCode />
+            <addressTimeZone />
+        </addressList>
+    </accountDto>
+    <dealServiceExportDTOList>
+        <templateId>ef3acb21-8391-4135-abbe-cab9b9390cc0</templateId>
+        <serviceName>API_GW_REST_TMPL1</serviceName>
+        <rateCards>
+            <dimensionPriceList>
+                <dimensionId>074b4727-6b75-4e63-be39-7996e23657f9</dimensionId>
+                <dimensionName>pd_rc</dimensionName>
+                <priceUnitLabel>API Call</priceUnitLabel>
+                <dimensionPrice>
+                    <method>TIERED</method>
+                    <priceTiers>
+                        <tierStart>1</tierStart>
+                        <tierEnd>1000000</tierEnd>
+                        <unitPrice>3.0E-4</unitPrice>
+                        <flatCharge>false</flatCharge>
+                    </priceTiers>
+                    <priceTiers>
+                        <tierStart>1000000</tierStart>
+                        <tierEnd>1.0E-8</tierEnd>
+                        <unitPrice>3.0E-4</unitPrice>
+                        <flatCharge>false</flatCharge>
+                    </priceTiers>
+                    <emitEmptyTiers>false</emitEmptyTiers>
+                </dimensionPrice>
+            </dimensionPriceList>
+            <dimensionPriceList>
+                <dimensionId>335e34e5-3f29-453b-90bf-f6f0c01be830</dimensionId>
+                <dimensionName>pd_mem</dimensionName>
+                <priceUnitLabel>Memory</priceUnitLabel>
+                <dimensionPrice>
+                    <method>TIERED</method>
+                    <priceTiers>
+                        <tierStart>1</tierStart>
+                        <tierEnd>4</tierEnd>
+                        <unitPrice>10</unitPrice>
+                        <flatCharge>false</flatCharge>
+                    </priceTiers>
+                    <priceTiers>
+                        <tierStart>5</tierStart>
+                        <tierEnd>16</tierEnd>
+                        <unitPrice>12</unitPrice>
+                        <flatCharge>false</flatCharge>
+                    </priceTiers>
+                    <priceTiers>
+                        <tierStart>17</tierStart>
+                        <tierEnd>256</tierEnd>
+                        <unitPrice>14</unitPrice>
+                        <flatCharge>false</flatCharge>
+                    </priceTiers>
+                    <emitEmptyTiers>false</emitEmptyTiers>
+                </dimensionPrice>
+            </dimensionPriceList>
+        </rateCards>
+    </dealServiceExportDTOList>
+</deal-est>

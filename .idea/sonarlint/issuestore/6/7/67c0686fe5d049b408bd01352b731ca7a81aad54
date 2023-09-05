@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïœ¢Íıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æØ‹õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿š•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Úæ¼øÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÅÁèÀùÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ƒé«î
+N
+java:S1854-"8Remove this useless assignment to local variable "list".(ğù½ä
+?
+java:S1481-")Remove this unused "list" local variable.(ğù½ä

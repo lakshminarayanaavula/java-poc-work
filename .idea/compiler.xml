@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="email-service-app" />
+        <module name="pdf-gen-svc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-java" target="19" />
+      <module name="csv-reader" target="19" />
+      <module name="ipl-stats" target="19" />
+      <module name="iplstat" target="17" />
+      <module name="iplstat-poc" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="email-service-app" options="-parameters" />
+      <module name="iplstat" options="-parameters" />
+      <module name="pdf-gen-svc" options="-parameters" />
+    </option>
+  </component>
+</project>

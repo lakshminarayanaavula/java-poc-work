@@ -1,0 +1,14 @@
+
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Your playing " 3 times.(ÉòÛöúÿÿÿÿ
+_
+java:S2259""BA "NullPointerException" could be thrown; "game" is nullable here.(Û¨Ì–8¤Ñ¼­1
+I
+java:S1610"4Convert the abstract class "Game" into an interface.(•¸Âj
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÓ¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö¶ºÒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉòÛöúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óµäÍøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÓó†
+F
+java:S2140(")Use "java.util.Random.nextInt()" instead.(ºúËß8¨ñº­1

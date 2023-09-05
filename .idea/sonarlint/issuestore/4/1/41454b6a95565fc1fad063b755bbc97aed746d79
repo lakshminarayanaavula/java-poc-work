@@ -1,0 +1,12 @@
+
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+V
+java:S1854	";Remove this useless assignment to local variable "service".(†Çù«ùÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "ch".(¹µ¡¤ÿÿÿÿÿ
+G
+java:S1481	",Remove this unused "service" local variable.(†Çù«ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àÏ¼úÿÿÿÿ
+B
+java:S1481"'Remove this unused "ch" local variable.(¹µ¡¤ÿÿÿÿÿ

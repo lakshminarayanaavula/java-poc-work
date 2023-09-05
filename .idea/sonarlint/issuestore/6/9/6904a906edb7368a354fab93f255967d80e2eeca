@@ -1,0 +1,25 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "accList".(¶®Œù
+B
+java:S1481",Remove this unused "accList" local variable.(¶®Œù
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+J
+java:S1172"/Remove this unused method parameter "accounts".(ˆóÊúÿÿÿÿ
+E
+java:S1172"/Remove this unused method parameter "accounts".(ãîú÷
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+J
+java:S1172"/Remove this unused method parameter "accounts".(çëøêıÿÿÿÿ
+N
+java:S1172 "8Remove these unused method parameters "accounts", "str".(øş­ò
+A
+java:S1168""+Return an empty collection instead of null.(¥¹ï
+Z
+java:S1172$"DRemove these unused method parameters "accounts", "lower", "higher".(ß‰æ‚
+A
+java:S1168%"+Return an empty collection instead of null.(¥¹ï
